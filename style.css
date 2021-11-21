@@ -345,3 +345,33 @@ ul{
 .footer li:hover{
 color:red;
 }
+.footer li{
+    margin-top: 5px;
+}
+.social-links{
+   display: flex;
+    color: black;
+    justify-content: center;
+    background-color:rgba(253, 252, 252, 0.842);
+    padding-left: 1100px;
+}
+
+.social-links .fab{
+    margin-top:16px;
+    padding-left:12px;
+    color: black;
+    
+}
+ .fa-facebook-f:hover{
+    color: blue;
+}
+.fa-twitter:hover{
+    color:skyblue;
+}
+.fa-youtube:hover{
+    color:red;
+}
+
+.fa-instagram-square:hover{
+    color: orange;
+}
